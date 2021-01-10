@@ -1,0 +1,21 @@
+[
+   {
+        "naam": "Services",
+      "toegangen": {"Voertuiglocatie": "True","Tijdsregistratie": "True","Herstelaanvraag": "True", "Bandendrukken":  "True", "Voertuiginfo": "True"},
+      "header1": ["MACHINE","VRACHTWAGEN","ZELFLOSSER","KIPPER","WIPKAR","CHASSIS","AUTO","FIETS","CONTAINER"]
+    },
+   {
+        "naam": "Beheer",
+      "toegangen": {"Voertuiglocatie": "True","Tijdsregistratie": "True","Herstelaanvraag": "True"},
+      "header1": ["MACHINE","AUTO","CONTAINER"]
+    },
+   {
+        "naam": "Bureel",
+      "toegangen": {"Tijdsregistratie": "True"}
+    },
+  {
+        "naam": "Transport",
+      "toegangen": {"Voertuiglocatie": "True","Herstelaanvraag": "True", "Bandendrukken":  "True"},
+      "header1": ["VRACHTWAGEN","ZELFLOSSER","KIPPER","WIPKAR","CHASSIS"]
+  }
+]

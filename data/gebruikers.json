@@ -1,0 +1,67 @@
+{
+    "827348817": {
+        "last_tijdregistratie_id": "",
+        "nu_voertuig": "",
+        "taalcode": "pl",
+        "nu_toelating": "",
+        "naam": "Waldek Waldek",
+        "last_msg_id": 997,
+        "id": 827348817,
+        "afdeling": {
+            "Services": [
+                "Voertuiginfo",
+                "Bandendrukken",
+                "Tijdsregistratie",
+                "Herstelaanvraag",
+                "Voertuiglocatie"
+            ]
+        },
+        "nu_afdeling": "Services"
+    },
+    "953781362": {
+        "last_tijdregistratie_id": 1269,
+        "nu_voertuig": "",
+        "taalcode": "nl",
+        "nu_toelating": "",
+        "naam": "Filip Hertsens",
+        "last_msg_id": 1283,
+        "id": 953781362,
+        "afdeling": {
+            "Services": [
+                "Voertuiginfo",
+                "Tijdsregistratie",
+                "Herstelaanvraag",
+                "Voertuiglocatie",
+                "Bandendrukken"
+            ],
+            "Beheer": [
+                "Tijdsregistratie",
+                "Herstelaanvraag",
+                "Voertuiglocatie"
+            ],
+            "Transport": [
+                "Bandendrukken",
+                "Herstelaanvraag",
+                "Voertuiglocatie"
+            ]
+        },
+        "nu_afdeling": ""
+    },
+    "1035352213": {
+        "last_tijdregistratie_id": "",
+        "nu_voertuig": "B107",
+        "taalcode": "nl",
+        "nu_toelating": "Herstelaanvraag",
+        "naam": "Caroline Hertsens",
+        "last_msg_id": 1178,
+        "id": 1035352213,
+        "afdeling": {
+            "Beheer": [
+                "Tijdsregistratie",
+                "Herstelaanvraag",
+                "Voertuiglocatie"
+            ]
+        },
+        "nu_afdeling": "Beheer"
+    }
+}
