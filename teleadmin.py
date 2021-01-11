@@ -3,7 +3,7 @@ import telepot
 import keyboard as kb
 from telepot.namedtuple import InlineKeyboardMarkup
 
-api = "1458391973:AAEOd4ToPFK2bmCzblPGIc5YovTOp05-gNM"
+api = "898207689:AAHNWFB3jlPdqG6sU-x8M4OgRWkE_GpTxGk"
 admin = 953781362
 bot = telepot.Bot(api)
 
